@@ -1,1 +1,1 @@
-README - wersja1: MASTER
+README - wersja1: master
